@@ -5,3 +5,4 @@
 
 | Day | Date | Topic Learned | Status |
 | :---: | :---: | :--- | :---: |
+| 1 | 2026-01-21 | created log_generator |
