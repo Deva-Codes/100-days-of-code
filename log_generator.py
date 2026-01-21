@@ -5,7 +5,7 @@ def update_log():
   day = input("Enter the day number")
   topic = input("what did you do today")
   today = datetime.date.today().strftime("%Y-%m-%d")
-  log_entry = f"| {day} | {today} | {topic}|"
+  log_entry = f"| {day} | {today} | {topic}| done|"
   try:
     with open("README.md","a") as f:
       f.write(log_entry)
