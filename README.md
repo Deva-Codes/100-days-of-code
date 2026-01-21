@@ -1,2 +1,7 @@
-# 100-days-of-code
-My journey to mastering ai 
+# 🚀 100 Days of Code - CFI Prep
+
+**Candidate:** Deva Kaushik  
+**Target:** AI Club / High-Performance Robotics  
+
+| Day | Date | Topic Learned | Status |
+| :---: | :---: | :--- | :---: |
